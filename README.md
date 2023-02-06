@@ -1,0 +1,1 @@
+modify node_modules/ajv/package.json by adding { "sideEffects": false }

@@ -1,0 +1,16 @@
+{
+  "name": "compare-webpack-tree-shaking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build4": "npm -C ./webpack4 run build",
+    "build5": "npm -C ./webpack5 run build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ajv": "^8.12.0"
+  }
+}
